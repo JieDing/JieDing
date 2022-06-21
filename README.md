@@ -1,4 +1,4 @@
-### Hi there Hiaaa 👋
+### Hi there Hiaaaa 👋
 
 <!--
 **JieDing/JieDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
