@@ -18,9 +18,13 @@
 - 📫 Connect with me on [LinkedIn]
 - 😄 Pronouns: he/him
 
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JieDing&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## ✨ GitHub Followers
 <!--START_SECTION:top-followers-->
