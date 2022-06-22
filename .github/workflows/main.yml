@@ -1,5 +1,9 @@
-on: [push]
-
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 20 * * *'
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
