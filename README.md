@@ -12,6 +12,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
+- 🌱 I’m currently learning golang and python
 - 👯 I’m looking to collaborate on any interesting **OSS** projects
 - 🤔 I Write some [blogs] irregularly  😴😴😴
 - 💬 Ask me about anything at [Discussions]
