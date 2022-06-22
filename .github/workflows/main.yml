@@ -1,6 +1,5 @@
 on: [push]
-permissions:
-  contents: write
+
 jobs:
   hello_world_job:
     runs-on: ubuntu-latest
@@ -14,7 +13,6 @@ jobs:
         env:
           login: ${{ github.repository_owner }}
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          readme: 'README.md'
       - name: Commit changes
         run: |
             git config --local user.email "action@github.com"
