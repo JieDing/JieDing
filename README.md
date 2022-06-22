@@ -10,7 +10,7 @@
 
 </p>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://metrics.lecoq.io/jieding#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
 - 🔭 I’m currently working on **Cloud Native Computation** projects
 - 🌱 I’m currently learning golang and python
