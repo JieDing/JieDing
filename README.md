@@ -1,19 +1,31 @@
-### Hi there👋
+## Hi there👋
 
-<!--
-**JieDing/JieDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jieding-is-dingjie)
+<a href="https://github.com/JieDing?tab=followers">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/JieDing?color=green&logo=github">
+</a>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://metrics.lecoq.io/jieding#gh-dark-mode-only)
+
+- 🔭 I’m currently working on **Cloud Native Computation** projects
+- 🌱 I’m currently learning golang and python
+- 👯 I’m looking to collaborate on any interesting **OSS** projects
+- 🤔 I Write some [blogs] irregularly  😴😴😴
+- 💬 Ask me about anything at [Discussions]
+- 📫 Connect with me on [LinkedIn]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Coding & Running, None is dispensable
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JieDing&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ✨ GitHub Followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -62,3 +74,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+[LinkedIn]: https://www.linkedin.com/in/jie-ding-998b87b0/
+[Discussions]: https://github.com/JieDing/JieDing/discussions/new
+[blogs]: https://jieding.io
