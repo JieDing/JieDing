@@ -74,14 +74,21 @@
         <a href="https://github.com/Jesministrator">Chris</a>
     </td>
     <td align="center">
+        <a href="https://github.com/jiankebe">
+            <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
+        </a>
+        <br />
+        <a href="https://github.com/jiankebe">jiankebe</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
         <a href="https://github.com/inyeolsohnn">
             <img src="https://avatars2.githubusercontent.com/u/6922257" width="100px;" alt="inyeolsohnn"/>
         </a>
         <br />
         <a href="https://github.com/inyeolsohnn">inyeolsohnn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Gamuzaer">
             <img src="https://avatars2.githubusercontent.com/u/26560848" width="100px;" alt="Gamuzaer"/>
