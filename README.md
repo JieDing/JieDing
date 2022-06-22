@@ -81,6 +81,15 @@
         <a href="https://github.com/inyeolsohnn">inyeolsohnn</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Gamuzaer">
+            <img src="https://avatars2.githubusercontent.com/u/26560848" width="100px;" alt="Gamuzaer"/>
+        </a>
+        <br />
+        <a href="https://github.com/Gamuzaer">Gamuzaer</a>
+    </td>
+  </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
