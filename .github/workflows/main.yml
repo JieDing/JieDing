@@ -13,7 +13,7 @@ jobs:
 
       - name: use github-follower
         id: github-follower
-        uses: JieDing/github-followers-action@v1.0.0
+        uses: JieDing/github-followers-action@main
         env:
           login: ${{ github.repository_owner }}
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
