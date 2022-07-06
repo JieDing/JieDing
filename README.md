@@ -67,12 +67,21 @@
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Jesministrator">
             <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
         </a>
         <br />
         <a href="https://github.com/Jesministrator">Chris</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/jiankebe">
             <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/jiankebe">jiankebe</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/inyeolsohnn">
             <img src="https://avatars2.githubusercontent.com/u/6922257" width="100px;" alt="inyeolsohnn"/>
