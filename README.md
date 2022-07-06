@@ -28,7 +28,7 @@
 ---
 
 ## ✨ GitHub Followers
-<!--START_SECTION:top-followers-->
+<!--ACTION_START_FLAG:github-followers-->
 <table>
   <tr>
     <td align="center">
@@ -98,7 +98,7 @@
     </td>
   </tr>
 </table>
-<!--END_SECTION:top-followers-->
+<!--ACTION_END_FLAG:github-followers-->
 
 ## 🗂️ Fun Projects
 
