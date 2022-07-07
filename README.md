@@ -53,6 +53,13 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/wangwei538">
             <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
         </a>
@@ -65,13 +72,6 @@
         </a>
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
         <a href="https://github.com/Jesministrator">
