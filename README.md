@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
+<div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jieding-is-dingjie)
 <a href="https://github.com/JieDing?tab=followers">
@@ -8,7 +8,7 @@
 </a>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-</p>
+</div>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
