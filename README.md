@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/cryptotyler">
+            <img src="https://avatars2.githubusercontent.com/u/53035239" width="100px;" alt="cryptotyler"/>
+        </a>
+        <br />
+        <a href="https://github.com/cryptotyler">Crypto Tyler</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
@@ -73,13 +80,6 @@
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
-    <td align="center">
-        <a href="https://github.com/Jesministrator">
-            <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
-        </a>
-        <br />
-        <a href="https://github.com/Jesministrator">Chris</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -88,6 +88,13 @@
         </a>
         <br />
         <a href="https://github.com/jiankebe">jiankebe</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Jesministrator">
+            <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
+        </a>
+        <br />
+        <a href="https://github.com/Jesministrator">Chris</a>
     </td>
     <td align="center">
         <a href="https://github.com/inyeolsohnn">
