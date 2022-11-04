@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Serverless** projects
 - 🤔 I Write some [blogs] irregularly  😴😴😴
 - 💬 Ask me about anything at [Discussions]
-- 📫 Connect with me on [LinkedIn]
+- 📫 Connect with me on [Twitter]
 - 😄 Pronouns: he/him
 
 ---
@@ -117,6 +117,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JieDing&repo=JieDing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
-[LinkedIn]: https://www.linkedin.com/in/jie-ding-998b87b0/
+[Twitter]: https://twitter.com/Jay_Ding_
 [Discussions]: https://github.com/JieDing/JieDing/discussions/new
 [blogs]: https://jieding.io
