@@ -53,6 +53,13 @@
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
+        <a href="https://github.com/ifplusor">
+            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
+        </a>
+        <br />
+        <a href="https://github.com/ifplusor">James Yin</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/wangwei538">wangwei538</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jiankebe">
             <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
