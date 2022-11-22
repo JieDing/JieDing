@@ -32,13 +32,6 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/cryptotyler">
-            <img src="https://avatars2.githubusercontent.com/u/53035239" width="100px;" alt="cryptotyler"/>
-        </a>
-        <br />
-        <a href="https://github.com/cryptotyler">Crypto Tyler</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
@@ -80,8 +73,6 @@
         <br />
         <a href="https://github.com/wangwei538">wangwei538</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
@@ -89,6 +80,8 @@
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/jiankebe">
             <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
