@@ -32,6 +32,20 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fahadashiq12">
+            <img src="https://avatars2.githubusercontent.com/u/44393684" width="100px;" alt="fahadashiq12"/>
+        </a>
+        <br />
+        <a href="https://github.com/fahadashiq12">Fahad Ashiq ⚡</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
@@ -44,6 +58,13 @@
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wenfeng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/erokemwa">
+            <img src="https://avatars2.githubusercontent.com/u/111133254" width="100px;" alt="erokemwa"/>
+        </a>
+        <br />
+        <a href="https://github.com/erokemwa">erokemwa</a>
     </td>
     <td align="center">
         <a href="https://github.com/ifplusor">
@@ -59,6 +80,8 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -80,8 +103,6 @@
         <br />
         <a href="https://github.com/wangwei538">wangwei538</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jiankebe">
             <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
