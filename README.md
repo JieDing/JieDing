@@ -12,9 +12,9 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jieding&theme=gruvbox&show_icons=true">](https://github-readme-stats.vercel.app/api?username=jieding&show_icons=true&theme=gruvbox)
 
-- 🌱 I’m currently learning golang and python
+- 🌱 I’m currently building a k8s-based Message queue - [Vanus]
 - 👯 I’m looking to collaborate on **Serverless** projects
-- 🤔 I Write some [blogs] irregularly  😴😴😴
+- 🤔 Kinda full stack (React,Vue,Angular,Typescript,Golang,Java)
 - 💬 Ask me about anything at [Discussions]
 - 📫 Connect with me on [Twitter]
 - 😄 Pronouns: he/him
@@ -148,3 +148,4 @@
 [Twitter]: https://twitter.com/Jay_Ding_
 [Discussions]: https://github.com/JieDing/JieDing/discussions/new
 [blogs]: https://jieding.io
+[vanus]: https://github.com/linkall-labs/vanus
