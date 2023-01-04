@@ -97,6 +97,13 @@
         <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
+        <a href="https://github.com/VedaGao">
+            <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
+        </a>
+        <br />
+        <a href="https://github.com/VedaGao">VedaGao</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
         </a>
@@ -109,13 +116,6 @@
         </a>
         <br />
         <a href="https://github.com/wangwei538">wangwei538</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/VedaGao">
-            <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
-        </a>
-        <br />
-        <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
     <td align="center">
         <a href="https://github.com/jiankebe">
