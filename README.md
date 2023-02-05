@@ -67,18 +67,18 @@
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
-        <a href="https://github.com/erokemwa">
-            <img src="https://avatars2.githubusercontent.com/u/111133254" width="100px;" alt="erokemwa"/>
-        </a>
-        <br />
-        <a href="https://github.com/erokemwa">erokemwa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
         </a>
         <br />
         <a href="https://github.com/Michaelg22">MikeG</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/erokemwa">
+            <img src="https://avatars2.githubusercontent.com/u/111133254" width="100px;" alt="erokemwa"/>
+        </a>
+        <br />
+        <a href="https://github.com/erokemwa">erokemwa</a>
     </td>
   </tr>
   <tr>
