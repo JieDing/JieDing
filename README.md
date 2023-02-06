@@ -90,18 +90,18 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ifplusor">
-            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
-        </a>
-        <br />
-        <a href="https://github.com/ifplusor">James Yin</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
         </a>
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ifplusor">
+            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
+        </a>
+        <br />
+        <a href="https://github.com/ifplusor">James Yin</a>
     </td>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
