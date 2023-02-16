@@ -74,11 +74,11 @@
         <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
-        <a href="https://github.com/erokemwa">
-            <img src="https://avatars2.githubusercontent.com/u/111133254" width="100px;" alt="erokemwa"/>
+        <a href="https://github.com/VedaGao">
+            <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
         </a>
         <br />
-        <a href="https://github.com/erokemwa">erokemwa</a>
+        <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
   </tr>
   <tr>
@@ -88,13 +88,6 @@
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/VedaGao">
-            <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
-        </a>
-        <br />
-        <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
     <td align="center">
         <a href="https://github.com/ifplusor">
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/jiankebe">jiankebe</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Jesministrator">
             <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/Jesministrator">Chris</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/inyeolsohnn">
             <img src="https://avatars2.githubusercontent.com/u/6922257" width="100px;" alt="inyeolsohnn"/>
