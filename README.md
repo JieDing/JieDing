@@ -115,7 +115,7 @@
             <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
         </a>
         <br />
-        <a href="https://github.com/wangwei538">wangwei538</a>
+        <a href="https://github.com/wangwei538">weir</a>
     </td>
     <td align="center">
         <a href="https://github.com/jiankebe">
