@@ -60,18 +60,18 @@
         <a href="https://github.com/fahadashiq12">Fahad Ashiq ⚡</a>
     </td>
     <td align="center">
-        <a href="https://github.com/songjiayang">
-            <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
-        </a>
-        <br />
-        <a href="https://github.com/songjiayang"> songjiayang</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
         </a>
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/songjiayang">
+            <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
+        </a>
+        <br />
+        <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
         <a href="https://github.com/wenfengwang">
