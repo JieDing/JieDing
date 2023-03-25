@@ -39,13 +39,6 @@
         <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
-        <a href="https://github.com/SaadBazaz">
-            <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
-        </a>
-        <br />
-        <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
         </a>
@@ -72,6 +65,13 @@
         </a>
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SaadBazaz">
+            <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
+        </a>
+        <br />
+        <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
     <td align="center">
         <a href="https://github.com/wenfengwang">
