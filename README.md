@@ -101,7 +101,7 @@
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
         </a>
         <br />
-        <a href="https://github.com/c0d33ngr">Jeffrey Whewhetu</a>
+        <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
