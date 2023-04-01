@@ -104,6 +104,13 @@
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
     <td align="center">
+        <a href="https://github.com/skjsnb">
+            <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="skjsnb"/>
+        </a>
+        <br />
+        <a href="https://github.com/skjsnb">Jelin</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
         </a>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/jiankebe">jiankebe</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Jesministrator">
             <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/Jesministrator">Chris</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/inyeolsohnn">
             <img src="https://avatars2.githubusercontent.com/u/6922257" width="100px;" alt="inyeolsohnn"/>
