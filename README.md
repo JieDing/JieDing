@@ -46,18 +46,18 @@
         <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fahadashiq12">
-            <img src="https://avatars2.githubusercontent.com/u/44393684" width="100px;" alt="fahadashiq12"/>
-        </a>
-        <br />
-        <a href="https://github.com/fahadashiq12">Fahad Ashiq ⚡</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
         </a>
         <br />
         <a href="https://github.com/VedaGao">VedaGao</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fahadashiq12">
+            <img src="https://avatars2.githubusercontent.com/u/44393684" width="100px;" alt="fahadashiq12"/>
+        </a>
+        <br />
+        <a href="https://github.com/fahadashiq12">Fahad Ashiq ⚡</a>
     </td>
     <td align="center">
         <a href="https://github.com/songjiayang">
