@@ -53,6 +53,13 @@
         <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
+        <a href="https://github.com/ifplusor">
+            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
+        </a>
+        <br />
+        <a href="https://github.com/ifplusor">James Yin</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/VedaGao">
             <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -95,13 +102,6 @@
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, YM (Andy)</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ifplusor">
-            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
-        </a>
-        <br />
-        <a href="https://github.com/ifplusor">James Yin</a>
     </td>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
