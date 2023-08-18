@@ -57,7 +57,7 @@
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
         <br />
-        <a href="https://github.com/ifplusor">James Yin</a>
+        <a href="https://github.com/ifplusor">James Yean</a>
     </td>
     <td align="center">
         <a href="https://github.com/VedaGao">
