@@ -134,6 +134,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jiankebe">
             <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
         </a>
