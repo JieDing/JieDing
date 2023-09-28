@@ -125,20 +125,20 @@
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wangwei538">
-            <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
-        </a>
-        <br />
-        <a href="https://github.com/wangwei538">weir</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/oliver-lou">
             <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
         <br />
         <a href="https://github.com/oliver-lou">Oliver Lou</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/wangwei538">
+            <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
+        </a>
+        <br />
+        <a href="https://github.com/wangwei538">weir</a>
     </td>
     <td align="center">
         <a href="https://github.com/jiankebe">
