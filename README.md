@@ -155,18 +155,18 @@
         <a href="https://github.com/abcxyzbank">Truc Pham</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jiankebe">
-            <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
-        </a>
-        <br />
-        <a href="https://github.com/jiankebe">jiankebe</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Jesministrator">
             <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
         </a>
         <br />
         <a href="https://github.com/Jesministrator">Chris</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jiankebe">
+            <img src="https://avatars2.githubusercontent.com/u/7916816" width="100px;" alt="jiankebe"/>
+        </a>
+        <br />
+        <a href="https://github.com/jiankebe">jiankebe</a>
     </td>
     <td align="center">
         <a href="https://github.com/inyeolsohnn">
