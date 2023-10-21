@@ -111,6 +111,13 @@
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
     <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/skjsnb">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="skjsnb"/>
         </a>
@@ -123,13 +130,6 @@
         </a>
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/oliver-lou">
-            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
-        </a>
-        <br />
-        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
   <tr>
