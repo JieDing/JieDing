@@ -97,6 +97,13 @@
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/oliver-lou">
             <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/skjsnb">Jelin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/inyeolsohnn">inyeolsohnn</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Gamuzaer">
-            <img src="https://avatars2.githubusercontent.com/u/26560848" width="100px;" alt="Gamuzaer"/>
-        </a>
-        <br />
-        <a href="https://github.com/Gamuzaer">Gamuzaer</a>
     </td>
   </tr>
 </table>
