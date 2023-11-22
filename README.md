@@ -39,13 +39,6 @@
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/imhilla">
             <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
         </a>
@@ -80,14 +73,21 @@
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
         <a href="https://github.com/wenfengwang">
