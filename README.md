@@ -148,6 +148,13 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
+        <a href="https://github.com/nilaachandra">
+            <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
+        </a>
+        <br />
+        <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/wangwei538">
             <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
         </a>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/jiankebe">jiankebe</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/inyeolsohnn">
-            <img src="https://avatars2.githubusercontent.com/u/6922257" width="100px;" alt="inyeolsohnn"/>
-        </a>
-        <br />
-        <a href="https://github.com/inyeolsohnn">inyeolsohnn</a>
     </td>
   </tr>
 </table>
