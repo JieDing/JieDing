@@ -141,6 +141,13 @@
         <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
+        <a href="https://github.com/LUFA199x">
+            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
+        </a>
+        <br />
+        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
@@ -162,13 +169,6 @@
         <a href="https://github.com/wangwei538">weir</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/abcxyzbank">
             <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="abcxyzbank"/>
         </a>
@@ -176,11 +176,11 @@
         <a href="https://github.com/abcxyzbank">Truc Pham</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Jesministrator">
-            <img src="https://avatars2.githubusercontent.com/u/33193104" width="100px;" alt="Jesministrator"/>
+        <a href="https://github.com/ResearchForumOnline">
+            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
         </a>
         <br />
-        <a href="https://github.com/Jesministrator">Chris</a>
+        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
   </tr>
 </table>
