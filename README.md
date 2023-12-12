@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/zhenrong-wang">
+            <img src="https://avatars2.githubusercontent.com/u/59274212" width="100px;" alt="zhenrong-wang"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhenrong-wang">Zhenrong WANG</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/abcxyzbank">Truc Pham</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
   </tr>
 </table>
