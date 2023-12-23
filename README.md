@@ -97,18 +97,18 @@
         <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
         <br />
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
         <a href="https://github.com/oliver-lou">
