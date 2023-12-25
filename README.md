@@ -46,18 +46,18 @@
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ifplusor">
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
         <br />
         <a href="https://github.com/ifplusor">James Yean</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/VedaGao">
