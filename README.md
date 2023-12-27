@@ -111,6 +111,13 @@
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
+        <a href="https://github.com/utk2103">
+            <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
+        </a>
+        <br />
+        <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/oliver-lou">
             <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/pymhq">Peng, YM (Andy)</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/wangwei538">weir</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/abcxyzbank">
-            <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="abcxyzbank"/>
-        </a>
-        <br />
-        <a href="https://github.com/abcxyzbank">Truc Pham</a>
     </td>
   </tr>
 </table>
