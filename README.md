@@ -134,6 +134,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
         </a>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wangwei538">
-            <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
-        </a>
-        <br />
-        <a href="https://github.com/wangwei538">weir</a>
     </td>
   </tr>
 </table>
