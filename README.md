@@ -155,18 +155,18 @@
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
     <td align="center">
-        <a href="https://github.com/c0d33ngr">
-            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
-        </a>
-        <br />
-        <a href="https://github.com/c0d33ngr">c0d33ngr</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
+        </a>
+        <br />
+        <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
     <td align="center">
         <a href="https://github.com/LUFA199x">
