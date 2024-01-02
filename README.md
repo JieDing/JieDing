@@ -39,6 +39,13 @@
         <a href="https://github.com/zhenrong-wang">Zhenrong WANG</a>
     </td>
     <td align="center">
+        <a href="https://github.com/SaadBazaz">
+            <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
+        </a>
+        <br />
+        <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ifplusor">
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
@@ -72,13 +79,6 @@
         </a>
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SaadBazaz">
-            <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
-        </a>
-        <br />
-        <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
   </tr>
   <tr>
@@ -141,18 +141,18 @@
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
-        </a>
-        <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rhythm-08">
+            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        </a>
+        <br />
+        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucdp">
