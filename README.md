@@ -104,18 +104,18 @@
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
         </a>
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
         <a href="https://github.com/oliver-lou">
@@ -129,23 +129,23 @@
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
-        <a href="https://github.com/pymhq">Peng, YM (Andy)</a>
+        <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
-    </td>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
