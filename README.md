@@ -125,20 +125,20 @@
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
-        <a href="https://github.com/pymhq">
-            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
-        </a>
-        <br />
-        <a href="https://github.com/pymhq">Peng, Andy</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/pymhq">
+            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
+        </a>
+        <br />
+        <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
         <a href="https://github.com/kieyp">
