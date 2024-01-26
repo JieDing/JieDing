@@ -32,18 +32,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/zhenrong-wang">
-            <img src="https://avatars2.githubusercontent.com/u/59274212" width="100px;" alt="zhenrong-wang"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhenrong-wang">Zhenrong WANG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
         <br />
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zhenrong-wang">
+            <img src="https://avatars2.githubusercontent.com/u/59274212" width="100px;" alt="zhenrong-wang"/>
+        </a>
+        <br />
+        <a href="https://github.com/zhenrong-wang">Zhenrong WANG</a>
     </td>
     <td align="center">
         <a href="https://github.com/ifplusor">
