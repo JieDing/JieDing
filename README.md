@@ -67,21 +67,12 @@
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fahadashiq12">
-            <img src="https://avatars2.githubusercontent.com/u/44393684" width="100px;" alt="fahadashiq12"/>
-        </a>
-        <br />
-        <a href="https://github.com/fahadashiq12">Fahad Ashiq ⚡</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -89,6 +80,8 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wangwei538">
+            <img src="https://avatars2.githubusercontent.com/u/41729046" width="100px;" alt="wangwei538"/>
+        </a>
+        <br />
+        <a href="https://github.com/wangwei538">weir</a>
     </td>
   </tr>
 </table>
