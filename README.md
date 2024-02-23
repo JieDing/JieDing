@@ -83,18 +83,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
         <br />
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
@@ -162,18 +162,18 @@
         <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
-        <a href="https://github.com/LUFA199x">
-            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
-        </a>
-        <br />
-        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
         </a>
         <br />
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LUFA199x">
+            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
+        </a>
+        <br />
+        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
