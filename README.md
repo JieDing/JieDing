@@ -74,21 +74,14 @@
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
-        </a>
-        <br />
-        <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
         <br />
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
@@ -97,11 +90,11 @@
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
         </a>
         <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
         <a href="https://github.com/utk2103">
@@ -109,6 +102,13 @@
         </a>
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
         <a href="https://github.com/nilaachandra">
@@ -134,13 +134,6 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
         </a>
@@ -153,6 +146,13 @@
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
