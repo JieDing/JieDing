@@ -104,18 +104,18 @@
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
-        </a>
-        <br />
-        <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        </a>
+        <br />
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
         <a href="https://github.com/Michaelg22">
