@@ -118,28 +118,21 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/oliver-lou">
             <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
         <br />
         <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-        <a href="https://github.com/pymhq">
-            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
         </a>
         <br />
-        <a href="https://github.com/pymhq">Peng, Andy</a>
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
@@ -148,11 +141,11 @@
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        <a href="https://github.com/pymhq">
+            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
+        <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucdp">
@@ -162,6 +155,13 @@
         <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Rhythm-08">
+            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        </a>
+        <br />
+        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
@@ -169,18 +169,18 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
         </a>
         <br />
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
   </tr>
 </table>
