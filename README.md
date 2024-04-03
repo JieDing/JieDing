@@ -83,18 +83,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
         </a>
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
         <a href="https://github.com/utk2103">
@@ -148,18 +148,18 @@
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
-        </a>
-        <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rhythm-08">
+            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        </a>
+        <br />
+        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
