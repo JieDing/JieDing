@@ -118,18 +118,18 @@
         <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
-        </a>
-        <br />
-        <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        </a>
+        <br />
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
   </tr>
   <tr>
