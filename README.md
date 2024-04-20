@@ -111,6 +111,13 @@
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/mmoritz8">
+            <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
+        </a>
+        <br />
+        <a href="https://github.com/mmoritz8">-__-</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/oliver-lou">
             <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wenfeng</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/c0d33ngr">
-            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
-        </a>
-        <br />
-        <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
   </tr>
 </table>
