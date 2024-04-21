@@ -39,13 +39,6 @@
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/zhenrong-wang">
-            <img src="https://avatars2.githubusercontent.com/u/59274212" width="100px;" alt="zhenrong-wang"/>
-        </a>
-        <br />
-        <a href="https://github.com/zhenrong-wang">Zhenrong WANG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ifplusor">
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
@@ -80,8 +73,6 @@
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
@@ -89,6 +80,8 @@
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -169,6 +162,13 @@
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wenfeng</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
@@ -176,11 +176,11 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
         </a>
         <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
+        <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
   </tr>
 </table>
