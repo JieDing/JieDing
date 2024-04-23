@@ -141,11 +141,11 @@
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/trucdp">
-            <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
-        <a href="https://github.com/trucdp">Truc Pham</a>
+        <a href="https://github.com/wenfengwang">wenfeng</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
@@ -155,11 +155,11 @@
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        <a href="https://github.com/trucdp">
+            <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
         <br />
-        <a href="https://github.com/wenfengwang">wenfeng</a>
+        <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
