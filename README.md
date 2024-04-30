@@ -118,27 +118,27 @@
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
+        <a href="https://github.com/pymhq">
+            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
+        </a>
+        <br />
+        <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
         </a>
         <br />
         <a href="https://github.com/Michaelg22">MikeG</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/pymhq">
-            <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
-        </a>
-        <br />
-        <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
         <a href="https://github.com/wenfengwang">
@@ -148,18 +148,18 @@
         <a href="https://github.com/wenfengwang">wells</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
-        </a>
-        <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rhythm-08">
+            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        </a>
+        <br />
+        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
