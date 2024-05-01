@@ -83,6 +83,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/mmoritz8">
+            <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
+        </a>
+        <br />
+        <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Michaelg22">
             <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
   </tr>
 </table>
