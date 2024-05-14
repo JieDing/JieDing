@@ -53,18 +53,18 @@
         <a href="https://github.com/VedaGao">VedaGao</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/inannan423">
@@ -141,18 +141,18 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
