@@ -162,18 +162,18 @@
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/trucdp">
-            <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
-        </a>
-        <br />
-        <a href="https://github.com/trucdp">Truc Pham</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/trucdp">
+            <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
+        </a>
+        <br />
+        <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
