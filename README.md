@@ -90,18 +90,18 @@
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
     </td>
     <td align="center">
-        <a href="https://github.com/YanisBenekaa">
-            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
-        </a>
-        <br />
-        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/YanisBenekaa">
+            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
+        </a>
+        <br />
+        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
         <a href="https://github.com/utk2103">
