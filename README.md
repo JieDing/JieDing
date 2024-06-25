@@ -60,18 +60,18 @@
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/inannan423">
             <img src="https://avatars2.githubusercontent.com/u/83146544" width="100px;" alt="inannan423"/>
         </a>
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/manzil-infinity180">
