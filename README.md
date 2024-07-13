@@ -83,6 +83,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
         </a>
@@ -123,13 +130,6 @@
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wells</a>
     </td>
   </tr>
   <tr>
