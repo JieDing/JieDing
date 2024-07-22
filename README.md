@@ -67,21 +67,12 @@
         <a href="https://github.com/inannan423">Orange Cheng</a>
     </td>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/imhilla">
             <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
         </a>
         <br />
         <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -89,12 +80,21 @@
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
@@ -118,18 +118,18 @@
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
     <td align="center">
-        <a href="https://github.com/oliver-lou">
-            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
-        </a>
-        <br />
-        <a href="https://github.com/oliver-lou">Oliver Lou</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
   <tr>
