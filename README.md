@@ -111,18 +111,18 @@
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
     </td>
     <td align="center">
-        <a href="https://github.com/utk2103">
-            <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
-        </a>
-        <br />
-        <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/utk2103">
+            <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
+        </a>
+        <br />
+        <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
     <td align="center">
         <a href="https://github.com/oliver-lou">
