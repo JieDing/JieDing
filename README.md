@@ -90,18 +90,18 @@
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
         </a>
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/mmoritz8">
