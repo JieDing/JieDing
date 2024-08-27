@@ -60,18 +60,18 @@
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/inannan423">
             <img src="https://avatars2.githubusercontent.com/u/83146544" width="100px;" alt="inannan423"/>
         </a>
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
         <a href="https://github.com/nilaachandra">
@@ -97,18 +97,18 @@
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmoritz8">
             <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
         </a>
         <br />
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/kieyp">
@@ -148,18 +148,18 @@
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
-        </a>
-        <br />
-        <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        </a>
+        <br />
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
