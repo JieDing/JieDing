@@ -176,11 +176,11 @@
         <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        <a href="https://github.com/ResearchForumOnline">
+            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
         </a>
         <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
+        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
   </tr>
 </table>
