@@ -60,18 +60,18 @@
         <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/inannan423">
             <img src="https://avatars2.githubusercontent.com/u/83146544" width="100px;" alt="inannan423"/>
         </a>
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
         <a href="https://github.com/nilaachandra">
@@ -155,11 +155,11 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        <a href="https://github.com/abcxyzbank">
+            <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="abcxyzbank"/>
         </a>
         <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
+        <a href="https://github.com/abcxyzbank">DELETE_ME</a>
     </td>
     <td align="center">
         <a href="https://github.com/xdlbdy">
