@@ -83,18 +83,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wells</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
         </a>
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wells</a>
     </td>
     <td align="center">
         <a href="https://github.com/mmoritz8">
@@ -125,27 +125,27 @@
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
-        <a href="https://github.com/oliver-lou">
-            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
-        </a>
-        <br />
-        <a href="https://github.com/oliver-lou">Oliver Lou</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
         </a>
         <br />
         <a href="https://github.com/c0d33ngr">c0d33ngr</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
@@ -162,18 +162,18 @@
         <a href="https://github.com/abcxyzbank">DELETE_ME</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
-        </a>
-        <br />
-        <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
         </a>
         <br />
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        </a>
+        <br />
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucdp">
