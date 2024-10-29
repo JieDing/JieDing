@@ -148,13 +148,6 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/oliver-lou">
-            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
-        </a>
-        <br />
-        <a href="https://github.com/oliver-lou">Oliver Lou</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/abcxyzbank">
             <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="abcxyzbank"/>
         </a>
@@ -169,11 +162,11 @@
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
-        <a href="https://github.com/xdlbdy">
-            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
         <br />
-        <a href="https://github.com/xdlbdy">delu</a>
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucdp">
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlbdy">
+            <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
+        </a>
+        <br />
+        <a href="https://github.com/xdlbdy">delu</a>
     </td>
   </tr>
 </table>
