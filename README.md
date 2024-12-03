@@ -90,18 +90,18 @@
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
-        <a href="https://github.com/wenfengwang">
-            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
-        </a>
-        <br />
-        <a href="https://github.com/wenfengwang">wells</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmoritz8">
             <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
         </a>
         <br />
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wenfengwang">
+            <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
+        </a>
+        <br />
+        <a href="https://github.com/wenfengwang">wells</a>
     </td>
     <td align="center">
         <a href="https://github.com/imhilla">
