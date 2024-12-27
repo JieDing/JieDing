@@ -141,11 +141,11 @@
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/abcxyzbank">
-            <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="abcxyzbank"/>
+        <a href="https://github.com/trucpd">
+            <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="trucpd"/>
         </a>
         <br />
-        <a href="https://github.com/abcxyzbank">DELETE_ME</a>
+        <a href="https://github.com/trucpd">DELETE_ME</a>
     </td>
     <td align="center">
         <a href="https://github.com/ResearchForumOnline">
