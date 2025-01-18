@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/XiaomingX">
+            <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>
+        </a>
+        <br />
+        <a href="https://github.com/XiaomingX">Y11</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
             <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
@@ -97,18 +104,18 @@
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/utk2103">
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/kieyp">
             <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/oliver-lou">Oliver Lou</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Rhythm-08">
-            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
-        </a>
-        <br />
-        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
   </tr>
 </table>
