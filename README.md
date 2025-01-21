@@ -134,18 +134,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucpd">
