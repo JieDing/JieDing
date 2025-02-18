@@ -118,12 +118,21 @@
         <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
+        </a>
+        <br />
+        <a href="https://github.com/c0d33ngr">Jeffrey</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
         </a>
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
@@ -131,21 +140,12 @@
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucpd">
@@ -162,6 +162,13 @@
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/oliver-lou">
-            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
-        </a>
-        <br />
-        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
 </table>
