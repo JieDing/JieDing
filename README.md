@@ -53,13 +53,6 @@
         <a href="https://github.com/ifplusor">James Yean</a>
     </td>
     <td align="center">
-        <a href="https://github.com/VedaGao">
-            <img src="https://avatars2.githubusercontent.com/u/103040022" width="100px;" alt="VedaGao"/>
-        </a>
-        <br />
-        <a href="https://github.com/VedaGao">VedaGao</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
@@ -80,6 +73,13 @@
         <br />
         <a href="https://github.com/inannan423">Orange Cheng</a>
     </td>
+    <td align="center">
+        <a href="https://github.com/YanisBenekaa">
+            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
+        </a>
+        <br />
+        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -88,13 +88,6 @@
         </a>
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/YanisBenekaa">
-            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
-        </a>
-        <br />
-        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
         <a href="https://github.com/mmoritz8">
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
 </table>
