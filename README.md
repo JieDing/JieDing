@@ -134,13 +134,6 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/trucpd">
-            <img src="https://avatars2.githubusercontent.com/u/92442070" width="100px;" alt="trucpd"/>
-        </a>
-        <br />
-        <a href="https://github.com/trucpd">DELETE_ME</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
         </a>
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Rhythm-08">
+            <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
+        </a>
+        <br />
+        <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
     </td>
   </tr>
 </table>
