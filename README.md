@@ -141,18 +141,18 @@
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
         <br />
         <a href="https://github.com/trucdp">Truc Pham</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
         <a href="https://github.com/xdlbdy">
