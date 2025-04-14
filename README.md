@@ -148,13 +148,6 @@
         <a href="https://github.com/trucdp">Truc Pham</a>
     </td>
     <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/xdlbdy">
             <img src="https://avatars2.githubusercontent.com/u/4382157" width="100px;" alt="xdlbdy"/>
         </a>
@@ -174,6 +167,13 @@
         </a>
         <br />
         <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/kieyp">
+            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
+        </a>
+        <br />
+        <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
