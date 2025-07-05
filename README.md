@@ -118,18 +118,18 @@
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ResearchForumOnline">
+            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
+        </a>
+        <br />
+        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
   </tr>
   <tr>
