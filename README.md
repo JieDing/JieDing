@@ -46,18 +46,18 @@
         <a href="https://github.com/ifplusor">James Yean</a>
     </td>
     <td align="center">
-        <a href="https://github.com/songjiayang">
-            <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
-        </a>
-        <br />
-        <a href="https://github.com/songjiayang"> songjiayang</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/manzil-infinity180">
             <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
         </a>
         <br />
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/songjiayang">
+            <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
+        </a>
+        <br />
+        <a href="https://github.com/songjiayang"> songjiayang</a>
     </td>
     <td align="center">
         <a href="https://github.com/inannan423">
