@@ -90,18 +90,18 @@
         <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
-        <a href="https://github.com/c0d33ngr">
-            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
-        </a>
-        <br />
-        <a href="https://github.com/c0d33ngr">Jeffrey</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
+        </a>
+        <br />
+        <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
     <td align="center">
         <a href="https://github.com/utk2103">
@@ -155,18 +155,18 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/LUFA199x">
-            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
-        </a>
-        <br />
-        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
         </a>
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LUFA199x">
+            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
+        </a>
+        <br />
+        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
     </td>
     <td align="center">
         <a href="https://github.com/kieyp">
