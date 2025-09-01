@@ -125,20 +125,20 @@
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/ResearchForumOnline">
+            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
+        </a>
+        <br />
+        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
         <a href="https://github.com/trucdp">
