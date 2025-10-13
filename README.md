@@ -118,18 +118,18 @@
         <a href="https://github.com/pymhq">Peng, Andy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/nilaachandra">
-            <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
-        </a>
-        <br />
-        <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/nilaachandra">
+            <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
+        </a>
+        <br />
+        <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
   </tr>
   <tr>
