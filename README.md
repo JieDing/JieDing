@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/Kos-M">
+            <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
+        </a>
+        <br />
+        <a href="https://github.com/Kos-M">Kostas</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/mmoritz8">
             <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/imhilla">
             <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
-        </a>
-        <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
   </tr>
 </table>
