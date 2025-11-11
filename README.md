@@ -32,18 +32,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/Kos-M">
-            <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
-        </a>
-        <br />
-        <a href="https://github.com/Kos-M">Kostas</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
         <br />
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Kos-M">
+            <img src="https://avatars2.githubusercontent.com/u/46938390" width="100px;" alt="Kos-M"/>
+        </a>
+        <br />
+        <a href="https://github.com/Kos-M">Kostas</a>
     </td>
     <td align="center">
         <a href="https://github.com/ifplusor">
