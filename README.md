@@ -176,11 +176,11 @@
         <a href="https://github.com/kieyp">Boniface</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Michaelg22">
-            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
         </a>
         <br />
-        <a href="https://github.com/Michaelg22">MikeG</a>
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
 </table>
