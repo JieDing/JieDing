@@ -46,18 +46,18 @@
         <a href="https://github.com/ifplusor">James Yean</a>
     </td>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/songjiayang">
             <img src="https://avatars2.githubusercontent.com/u/1459834" width="100px;" alt="songjiayang"/>
         </a>
         <br />
         <a href="https://github.com/songjiayang"> songjiayang</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/manzil-infinity180">
+            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
+        </a>
+        <br />
+        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
         <a href="https://github.com/inannan423">
@@ -155,18 +155,18 @@
         <a href="https://github.com/xdlbdy">delu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/LUFA199x">
-            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
-        </a>
-        <br />
-        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Rhythm-08">
             <img src="https://avatars2.githubusercontent.com/u/64489317" width="100px;" alt="Rhythm-08"/>
         </a>
         <br />
         <a href="https://github.com/Rhythm-08">Rhythm Sharma</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LUFA199x">
+            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
+        </a>
+        <br />
+        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
     </td>
     <td align="center">
         <a href="https://github.com/kieyp">
