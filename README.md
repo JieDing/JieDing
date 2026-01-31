@@ -67,18 +67,18 @@
         <a href="https://github.com/inannan423">Orange Cheng</a>
     </td>
     <td align="center">
-        <a href="https://github.com/YanisBenekaa">
-            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
-        </a>
-        <br />
-        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/YanisBenekaa">
+            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
+        </a>
+        <br />
+        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
   </tr>
   <tr>
