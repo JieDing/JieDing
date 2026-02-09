@@ -97,13 +97,6 @@
         <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
-        <a href="https://github.com/c0d33ngr">
-            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
-        </a>
-        <br />
-        <a href="https://github.com/c0d33ngr">Jeffrey</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
         </a>
@@ -116,6 +109,13 @@
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
+        </a>
+        <br />
+        <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
     <td align="center">
         <a href="https://github.com/jelin-sh">
