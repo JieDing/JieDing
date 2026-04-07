@@ -46,18 +46,18 @@
         <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ifplusor">
-            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
-        </a>
-        <br />
-        <a href="https://github.com/ifplusor">James Yean</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/wenfengwang">
             <img src="https://avatars2.githubusercontent.com/u/9766821" width="100px;" alt="wenfengwang"/>
         </a>
         <br />
         <a href="https://github.com/wenfengwang">wells</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ifplusor">
+            <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
+        </a>
+        <br />
+        <a href="https://github.com/ifplusor">James Yean</a>
     </td>
     <td align="center">
         <a href="https://github.com/songjiayang">
