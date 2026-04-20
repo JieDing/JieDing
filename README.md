@@ -125,20 +125,20 @@
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
-        <a href="https://github.com/c0d33ngr">
-            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
-        </a>
-        <br />
-        <a href="https://github.com/c0d33ngr">Jeffrey</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/c0d33ngr">
+            <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
+        </a>
+        <br />
+        <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
     <td align="center">
         <a href="https://github.com/nilaachandra">
