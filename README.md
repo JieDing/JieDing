@@ -46,13 +46,6 @@
         <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/manzil-infinity180">
-            <img src="https://avatars2.githubusercontent.com/u/119070053" width="100px;" alt="manzil-infinity180"/>
-        </a>
-        <br />
-        <a href="https://github.com/manzil-infinity180">Rahul Vishwakarma</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ifplusor">
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
@@ -80,8 +73,6 @@
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/defnalk">
             <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
@@ -89,6 +80,8 @@
         <br />
         <a href="https://github.com/defnalk">Defne</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/mmoritz8">
             <img src="https://avatars2.githubusercontent.com/u/160292002" width="100px;" alt="mmoritz8"/>
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/oliver-lou">
+            <img src="https://avatars2.githubusercontent.com/u/73122994" width="100px;" alt="oliver-lou"/>
+        </a>
+        <br />
+        <a href="https://github.com/oliver-lou">Oliver Lou</a>
     </td>
   </tr>
 </table>
