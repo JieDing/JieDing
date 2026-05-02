@@ -141,6 +141,13 @@
         <a href="https://github.com/nilaachandra">Nila Chandra Laishram</a>
     </td>
     <td align="center">
+        <a href="https://github.com/LUFA199x">
+            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
+        </a>
+        <br />
+        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/trucdp">
             <img src="https://avatars2.githubusercontent.com/u/72937605" width="100px;" alt="trucdp"/>
         </a>
@@ -153,13 +160,6 @@
         </a>
         <br />
         <a href="https://github.com/xdlbdy">delu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/LUFA199x">
-            <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
-        </a>
-        <br />
-        <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
     </td>
     <td align="center">
         <a href="https://github.com/Rhythm-08">
