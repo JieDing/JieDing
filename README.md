@@ -64,7 +64,7 @@
             <img src="https://avatars2.githubusercontent.com/u/83146544" width="100px;" alt="inannan423"/>
         </a>
         <br />
-        <a href="https://github.com/inannan423">Orange Cheng</a>
+        <a href="https://github.com/inannan423">Orange</a>
     </td>
     <td align="center">
         <a href="https://github.com/YanisBenekaa">
