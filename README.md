@@ -74,20 +74,20 @@
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
     <td align="center">
-        <a href="https://github.com/defnalk">
-            <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
-        </a>
-        <br />
-        <a href="https://github.com/defnalk">Defne</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
         </a>
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/defnalk">
+            <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
+        </a>
+        <br />
+        <a href="https://github.com/defnalk">Defne</a>
     </td>
     <td align="center">
         <a href="https://github.com/pymhq">
