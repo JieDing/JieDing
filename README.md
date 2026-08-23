@@ -83,6 +83,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/ResearchForumOnline">
+            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
+        </a>
+        <br />
+        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/defnalk">
             <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
         </a>
@@ -95,13 +102,6 @@
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ResearchForumOnline">
-            <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
-        </a>
-        <br />
-        <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
         <a href="https://github.com/mmoritz8">
