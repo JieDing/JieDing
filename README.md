@@ -39,6 +39,13 @@
         <a href="https://github.com/wenfengwang">wells</a>
     </td>
     <td align="center">
+        <a href="https://github.com/yumiaura">
+            <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
+        </a>
+        <br />
+        <a href="https://github.com/yumiaura">Olya Pi</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SaadBazaz">
             <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
         </a>
@@ -73,6 +80,8 @@
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
@@ -80,8 +89,6 @@
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
@@ -90,18 +97,18 @@
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
     <td align="center">
-        <a href="https://github.com/defnalk">
-            <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
-        </a>
-        <br />
-        <a href="https://github.com/defnalk">Defne</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
         </a>
         <br />
         <a href="https://github.com/pymhq">Peng, Andy</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/defnalk">
+            <img src="https://avatars2.githubusercontent.com/u/163454231" width="100px;" alt="defnalk"/>
+        </a>
+        <br />
+        <a href="https://github.com/defnalk">Defne</a>
     </td>
     <td align="center">
         <a href="https://github.com/mmoritz8">
@@ -124,6 +131,8 @@
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
             <img src="https://avatars2.githubusercontent.com/u/106184818" width="100px;" alt="c0d33ngr"/>
@@ -131,8 +140,6 @@
         <br />
         <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/LUFA199x">
             <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
@@ -174,13 +181,6 @@
         </a>
         <br />
         <a href="https://github.com/oliver-lou">Oliver Lou</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kieyp">
-            <img src="https://avatars2.githubusercontent.com/u/87386767" width="100px;" alt="kieyp"/>
-        </a>
-        <br />
-        <a href="https://github.com/kieyp">Boniface</a>
     </td>
   </tr>
 </table>
