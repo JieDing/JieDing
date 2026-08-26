@@ -83,18 +83,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/utk2103">
-            <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
-        </a>
-        <br />
-        <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
         </a>
         <br />
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/utk2103">
+            <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
+        </a>
+        <br />
+        <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
     </td>
     <td align="center">
         <a href="https://github.com/pymhq">
