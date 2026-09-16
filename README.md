@@ -67,18 +67,18 @@
         <a href="https://github.com/inannan423">Orange</a>
     </td>
     <td align="center">
-        <a href="https://github.com/YanisBenekaa">
-            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
-        </a>
-        <br />
-        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/utk2103">
             <img src="https://avatars2.githubusercontent.com/u/118432516" width="100px;" alt="utk2103"/>
         </a>
         <br />
         <a href="https://github.com/utk2103">Utkarsh Upadhyay </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/YanisBenekaa">
+            <img src="https://avatars2.githubusercontent.com/u/70474177" width="100px;" alt="YanisBenekaa"/>
+        </a>
+        <br />
+        <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
   </tr>
   <tr>
