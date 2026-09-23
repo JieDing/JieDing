@@ -39,13 +39,6 @@
         <a href="https://github.com/wenfengwang">wells</a>
     </td>
     <td align="center">
-        <a href="https://github.com/SaadBazaz">
-            <img src="https://avatars2.githubusercontent.com/u/51885228" width="100px;" alt="SaadBazaz"/>
-        </a>
-        <br />
-        <a href="https://github.com/SaadBazaz">Saad A. Bazaz</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ifplusor">
             <img src="https://avatars2.githubusercontent.com/u/9999114" width="100px;" alt="ifplusor"/>
         </a>
@@ -80,8 +73,6 @@
         <br />
         <a href="https://github.com/YanisBenekaa">Yanis Benekaa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/ResearchForumOnline">
             <img src="https://avatars2.githubusercontent.com/u/116322650" width="100px;" alt="ResearchForumOnline"/>
@@ -89,6 +80,8 @@
         <br />
         <a href="https://github.com/ResearchForumOnline">ResearchForumOnline</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/pymhq">
             <img src="https://avatars2.githubusercontent.com/u/80087186" width="100px;" alt="pymhq"/>
@@ -131,8 +124,6 @@
         <br />
         <a href="https://github.com/c0d33ngr">Jeffrey</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/LUFA199x">
             <img src="https://avatars2.githubusercontent.com/u/66221234" width="100px;" alt="LUFA199x"/>
@@ -140,6 +131,8 @@
         <br />
         <a href="https://github.com/LUFA199x">Oluwasola Alufa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/nilaachandra">
             <img src="https://avatars2.githubusercontent.com/u/126670489" width="100px;" alt="nilaachandra"/>
@@ -181,6 +174,13 @@
         </a>
         <br />
         <a href="https://github.com/kieyp">Boniface</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Michaelg22">
+            <img src="https://avatars2.githubusercontent.com/u/62085623" width="100px;" alt="Michaelg22"/>
+        </a>
+        <br />
+        <a href="https://github.com/Michaelg22">MikeG</a>
     </td>
   </tr>
 </table>
