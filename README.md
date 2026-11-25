@@ -111,18 +111,18 @@
         <a href="https://github.com/mmoritz8">I do love that I was the ONLY right one. XD</a>
     </td>
     <td align="center">
-        <a href="https://github.com/imhilla">
-            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
-        </a>
-        <br />
-        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/jelin-sh">
             <img src="https://avatars2.githubusercontent.com/u/37699558" width="100px;" alt="jelin-sh"/>
         </a>
         <br />
         <a href="https://github.com/jelin-sh">Jelin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/imhilla">
+            <img src="https://avatars2.githubusercontent.com/u/58479445" width="100px;" alt="imhilla"/>
+        </a>
+        <br />
+        <a href="https://github.com/imhilla">Hillary Kiptoo</a>
     </td>
     <td align="center">
         <a href="https://github.com/c0d33ngr">
